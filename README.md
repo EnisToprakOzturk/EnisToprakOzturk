@@ -6,6 +6,6 @@ As a Database and System Administrator, I have gained experience in managing Lin
 
 ## 🚀 About Me
 
-- 🔭 I'm currently looking for a job in Germany.
+- 🔭 I'm currently looking for opportunities.
 - 📫 How to reach me: enistoprakozturk@gmail.com
-- 📄 Sharing what I learn in my Medium page: [medium.com/@enistoprakozturk](https://medium.com/@enistoprakozturk)
+- 📄 Sharing my notes on my DBA'S LIBRARY repo, recommend to  check it out: https://github.com/EnisToprakOzturk/DBA-sLibrary
