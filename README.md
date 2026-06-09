@@ -1,12 +1,8 @@
 # Hi, I'm Enis Toprak Öztürk! 👋
 
-**Database Administrator** <br>
-**DB Engines:** PostgreSQL - SQL Server - MongoDB - Oracle <br>
-**OS:** Linux - Windows <br>
-**Automation:** Bash - Python <br>
-**Monitoring:** Prometheus + Grafana <br>
-
-![EnisToprakOzturk's Stats](https://github-readme-stats.vercel.app/api?username=EnisToprakOzturk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+I administer relational and NoSQL databases across Linux and Windows, focused on the operational side of the job: reliable backups with tested restores, replication and HA, and turning database health into dashboards instead of guesswork.
+Core engines: PostgreSQL, SQL Server, MongoDB. Also work with Oracle; currently learning ClickHouse.
+I automate with Bash and Python, provision with Ansible, and run a self-hosted Linux lab where I build, break, and recover these setups on real hardware — most of which is documented in the repos below.
 
 ## 🚀 About Me
 
